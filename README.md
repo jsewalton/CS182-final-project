@@ -1,7 +1,9 @@
 # Bayesian Partisanship Classification Approaches
 
 tweet_classifier.py: Naive Bayes Tweet Classifier 
+
 multi_analysis.py: Multinomial Naive Bayes implemented using the scikit-learn library 
+
 bern_analysis.py: Bernoulli Naive Bayes implemented using the scikit-learn library 
 
 tweet_classifier.py, multi_analysis.py, bern_analysis.py:
