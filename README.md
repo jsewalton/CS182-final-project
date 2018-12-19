@@ -11,8 +11,11 @@ Use Python to run tweet_classifier.py, multi_analysis.py, and bern_analysis.py w
 You will need the following packages to run the code:
 
 `pip install scikit-learn
+
 pip install stop_words
+
 pip install pandas
+
 pip install numpy`
 
 
