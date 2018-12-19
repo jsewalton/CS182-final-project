@@ -6,6 +6,7 @@ multi_analysis.py: Multinomial Naive Bayes implemented using the scikit-learn li
 
 bern_analysis.py: Bernoulli Naive Bayes implemented using the scikit-learn library 
 
+\newline
 
 tweet_classifier.py, multi_analysis.py, bern_analysis.py:
 
