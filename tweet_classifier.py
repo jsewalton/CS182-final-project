@@ -1,5 +1,5 @@
-# A Naive Bayes Tweet Classifier
-# https://www.kaggle.com/degravek/a-naive-bayes-tweet-classifier/notebook
+
+# Adapted from A Naive Bayes Tweet Classifier, https://www.kaggle.com/degravek/a-naive-bayes-tweet-classifier/notebook
 
 from __future__ import division
 from sklearn.model_selection import train_test_split
