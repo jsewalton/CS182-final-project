@@ -1,4 +1,4 @@
-# Sentiment Analysis of Tweets Using Multinomial Naive Bayes
+# Adapted from Sentiment Analysis of Tweets Using Multinomial Naive Bayes
 # https://towardsdatascience.com/sentiment-analysis-of-tweets-using-multinomial-naive-bayes-1009ed24276b
 
 
